@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   const nextBtn = document.getElementById('nextBtn');
   nextBtn.addEventListener('click', () => {
-    window.location.href = '../1/1.html';
+    window.location.href = '1/1.html';
   });
 });
 

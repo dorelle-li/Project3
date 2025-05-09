@@ -10,7 +10,7 @@ body {
     rgba(255, 244, 237, 1) 63%,
      rgba(255, 176, 161, 1) 100%
   ); */
- background-image: url(../img/background2.png);
+ background-image: url(img/background2.png);
   /* ensure the gradient covers the full viewport */
   /* background-repeat: no-repeat;
   background-attachment: fixed; */
